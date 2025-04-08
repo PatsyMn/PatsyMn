@@ -6,15 +6,11 @@
 
 ## Current Projects:
 
-| Project                     | Status          | Description               |
-|-----------------------------|-----------------|---------------------------|
-| **Libft**                   | 🔨 In Progress   | My first C library        |
+| **Project**                 | **Status**       | **Description**           |
+|-----------------------------|------------------|---------------------------|
+| **Libft**                   | ✅ Completed     | My first C library        |
+| **ft_printf**               | ✅ Completed     | Implementing printf in C  |
 | **get_next_line**           | 🔨 In Progress   | Line reading function     |
-| **ft_printf**               | 🔨 In Progress   | Implementing printf in C  |
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
