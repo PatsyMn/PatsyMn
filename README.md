@@ -6,11 +6,14 @@
 
 ## Current Projects:
 
-| **Project**                 | **Status**       | **Description**           |
-|-----------------------------|------------------|---------------------------|
-| **Libft**                   | ✅ Completed     | My first C library        |
-| **ft_printf**               | ✅ Completed     | Implementing printf in C  |
-| **get_next_line**           | 🔨 In Progress   | Line reading function     |
+| **Project**        | **Status**     | **Description**                |
+|--------------------|----------------|--------------------------------|
+| **Libft**          | ✅ Completed   | My first C library             |
+| **ft_printf**      | ✅ Completed   | Implementing printf in C       |
+| **get_next_line**  | ✅ Completed   | Line reading function          |
+| **born2beroot**    | ✅ Completed   | Server setup and system admin |
+| **push_swap**      | 🔨 In Progress | Sorting algorithm with stacks |
+
 
 <h3 align="left">Languages and Tools:</h3>
 
