@@ -4,15 +4,17 @@
 - 🌱 I’m currently learning **C**
 - 💊 I was a nurse before
 
-## Current Projects:
+## Current Projects
 
-| **Project**        | **Status**     | **Description**                |
-|--------------------|----------------|--------------------------------|
-| **Libft**          | ✅ Completed   | My first C library             |
-| **ft_printf**      | ✅ Completed   | Implementing printf in C       |
-| **get_next_line**  | ✅ Completed   | Line reading function          |
-| **born2beroot**    | ✅ Completed   | Server setup and system admin |
-| **push_swap**      | 🔨 In Progress | Sorting algorithm with stacks |
+| **Project**        | **Status**     | **Description**                          |
+|--------------------|----------------|------------------------------------------|
+| **Libft**          | ✅ Completed   | My first C library                       |
+| **ft_printf**      | ✅ Completed   | Implementing printf in C                |
+| **get_next_line**  | ✅ Completed   | Line reading function                   |
+| **born2beroot**    | ✅ Completed   | Server setup and system administration |
+| **push_swap**      | ✅ Completed   | Sorting algorithm with stacks           |
+| **so_long**        | 🔨 In Progress | 2D game with basic graphics using MLX   |
+| **minitalk**       | 🔨 In Progress | Client-server communication in C        |
 
 
 <h3 align="left">Languages and Tools:</h3>
