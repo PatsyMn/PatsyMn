@@ -16,7 +16,7 @@
 | **so_long**      | ✅ Completed     | Simple 2D game using MLX graphics library                |
 | **minitalk**     | ✅ Completed     | Client-server communication using UNIX signals           |
 | **minishell**    | 🔨 In Progress   | Unix shell recreation with parsing, builtins, and exec   |
-| **philosopher**  | 🔨 In Progress   | Dining philosophers problem with multithreading in C     |
+| **philosophers**  | 🔨 In Progress   | Dining philosophers problem with multithreading in C     |
 
 ---
 
