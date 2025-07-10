@@ -4,18 +4,23 @@
 - 🌱 I’m currently learning **C**
 - 💊 I was a nurse before
 
-## Current Projects
+## 💻 Current Projects
 
-| **Project**        | **Status**     | **Description**                          |
-|--------------------|----------------|------------------------------------------|
-| **Libft**          | ✅ Completed   | My first C library                       |
-| **ft_printf**      | ✅ Completed   | Implementing printf in C                |
-| **get_next_line**  | ✅ Completed   | Line reading function                   |
-| **born2beroot**    | ✅ Completed   | Server setup and system administration |
-| **push_swap**      | ✅ Completed   | Sorting algorithm with stacks           |
-| **so_long**        | 🔨 In Progress | 2D game with basic graphics using MLX   |
-| **minitalk**       | 🔨 In Progress | Client-server communication in C        |
+| Project        | Status         | Description                                              |
+|----------------|----------------|----------------------------------------------------------|
+| **Libft**        | ✅ Completed     | My first C library                                       |
+| **ft_printf**    | ✅ Completed     | Reimplementation of the `printf` function in C           |
+| **get_next_line**| ✅ Completed     | A function to read lines from a file descriptor          |
+| **born2beroot**  | ✅ Completed     | Linux server setup & basic system administration         |
+| **push_swap**    | ✅ Completed     | Sorting algorithm using stacks and limited operations    |
+| **so_long**      | ✅ Completed     | Simple 2D game using MLX graphics library                |
+| **minitalk**     | ✅ Completed     | Client-server communication using UNIX signals           |
+| **minishell**    | 🔨 In Progress   | Unix shell recreation with parsing, builtins, and exec   |
+| **philosopher**  | 🔨 In Progress   | Dining philosophers problem with multithreading in C     |
 
+---
+
+> 🚀 These projects are part of my journey through the 42 coding school curriculum.
 
 <h3 align="left">Languages and Tools:</h3>
 
