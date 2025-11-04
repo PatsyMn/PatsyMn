@@ -16,8 +16,8 @@
 | **so_long**       | ✅ Completed     | Simple 2D game using MLX graphics library                |
 | **minitalk**      | ✅ Completed     | Client-server communication using UNIX signals           |
 | **philosophers**  | ✅ Completed     | Dining philosophers problem with multithreading in C     |
-| **minishell**     | 🔨 In Progress   | Unix shell recreation with parsing, builtins, and exec   |
-| **NetPractice**   | 🔨 In Progress   | Network fundamentals via interactive subnetting & routing tasks |
+| **minishell**     | ✅ Completed     | Unix shell recreation with parsing, builtins, and exec   |
+| **NetPractice**   | ✅ Completed     | Network fundamentals via interactive subnetting & routing tasks |
 ---
 
 > 🚀 These projects are part of my journey through the 42 coding school curriculum.
