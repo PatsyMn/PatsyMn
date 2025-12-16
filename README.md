@@ -6,18 +6,17 @@
 
 ## 💻 Current Projects
 
-| Project           | Status          | Description                                              |
-|-------------------|-----------------|----------------------------------------------------------|
-| **Libft**         | ✅ Completed     | My first C library                                       |
-| **ft_printf**     | ✅ Completed     | Reimplementation of the `printf` function in C           |
-| **get_next_line** | ✅ Completed     | A function to read lines from a file descriptor          |
-| **born2beroot**   | ✅ Completed     | Linux server setup & basic system administration         |
-| **push_swap**     | ✅ Completed     | Sorting algorithm using stacks and limited operations    |
-| **so_long**       | ✅ Completed     | Simple 2D game using MLX graphics library                |
-| **minitalk**      | ✅ Completed     | Client-server communication using UNIX signals           |
-| **philosophers**  | ✅ Completed     | Dining philosophers problem with multithreading in C     |
-| **minishell**     | ✅ Completed     | Unix shell recreation with parsing, builtins, and exec   |
-| **NetPractice**   | ✅ Completed     | Network fundamentals via interactive subnetting & routing tasks |
+Libft          ✅ Completed  My first C library
+ft_printf      ✅ Completed  Reimplementation of the printf function in C
+get_next_line  ✅ Completed  A function to read lines from a file descriptor
+born2beroot    ✅ Completed  Linux server setup & basic system administration
+push_swap      ✅ Completed  Sorting algorithm using stacks and limited operations
+so_long        ✅ Completed  Simple 2D game using MLX graphics library
+minitalk       ✅ Completed  Client-server communication using UNIX signals
+philosophers   ✅ Completed  Dining philosophers problem with multithreading in C
+minishell      ✅ Completed  Unix shell recreation with parsing, builtins, and exec
+NetPractice    ✅ Completed  Network fundamentals via interactive subnetting & routing tasks
+cub3D          ✅ Completed  3D game engine using raycasting and MLX graphics library
 ---
 
 > 🚀 These projects are part of my journey through the 42 coding school curriculum.
