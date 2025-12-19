@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Patsy Meimoun </h1>
 <h3 align="center">Student at 42 Nice</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** and **C++**
 - 💊 I was a nurse before
 
 ## 💻 Current Projects
