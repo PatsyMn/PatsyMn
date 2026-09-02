@@ -1,4 +1,4 @@
-**Student at 42 Nice 🇫🇷**
+# Student at 42 Nice 🇫🇷
 
 💊 Former nurse → 💻 Software Developer
 
