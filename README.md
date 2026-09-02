@@ -1,6 +1,7 @@
 **Student at 42 Nice 🇫🇷**
 
 💊 Former nurse → 💻 Software Developer
+
 🌱 Currently learning **C, C++, Python**
 
 ---
