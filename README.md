@@ -17,4 +17,4 @@ Completed the 42 Common Core and all its required projects.
 | Project | Status | Description |
 |---|:---:|---|
 | Linear Regression | ✅ Completed | Machine learning project implementing linear regression from scratch |
-| DSLR | 🚀 In Progress | Data Science & Logistic Regression project |
+| DSLR | ✅ Completed | Data Science & Logistic Regression project |
