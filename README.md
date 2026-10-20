@@ -22,5 +22,5 @@ Completed the 42 Common Core and all its required projects.
 |---|:---:|---|
 | Linear Regression | ✅ Completed | Machine learning project implementing linear regression from scratch |
 | DSLR | ✅ Completed | Data Science & Logistic Regression project |
-| Piscine Python | 🚧 In Progress | Intensive Python bootcamp for Data Science (NumPy, Pandas, Matplotlib) |
+| Piscine Python | 🚧 In Progress | Intensive Python bootcamp for Data Science |
 | IoT | 🚧 In Progress | Inception-of-Things: Kubernetes with K3s, K3d, Vagrant and Argo CD |
